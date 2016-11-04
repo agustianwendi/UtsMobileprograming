@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_power_settings_new_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_perm_device_information_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_perm_device_information_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_shopping_cart_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_shopping_cart_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_arrow_forward_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_arrow_forward_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_history_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_book_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_book_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_home_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_home_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_save_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save_white_24dp.png"
+    }
+]

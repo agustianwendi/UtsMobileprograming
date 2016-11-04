@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="selesai" type="id" />
+    <item name="imgKue" type="id" />
+    <item name="dari" type="id" />
+    <item name="ucapan" type="id" />
+    <item name="untuk" type="id" />
+</resources>

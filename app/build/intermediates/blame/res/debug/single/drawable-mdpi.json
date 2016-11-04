@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_add_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check_grey.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_check_grey.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_check.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_check.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_book_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_book_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_save_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_save_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_arrow_forward_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_forward_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_power_settings_new_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_power_settings_new_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\home.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_home_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_eror.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_eror.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_perm_device_information_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_perm_device_information_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_add_shopping_cart_white_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_add_shopping_cart_white_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_history_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_history_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_black_24dp.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\src\\main\\res\\drawable-mdpi\\ic_home_black_24dp.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "E:\\Android\\UtsMobileProgramming4\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable-mdpi\\common_google_signin_btn_icon_light_disabled.9.png"
+    }
+]
